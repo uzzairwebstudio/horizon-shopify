@@ -8,7 +8,7 @@ module.exports = {
       './snippets/*.liquid'
     ]
   },
-  darkMode: false, // or 'media' or 'class'
+  darkMode: false,
   plugins: [
     require('@tailwindcss/forms'),
     require('@tailwindcss/typography')
